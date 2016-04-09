@@ -1,0 +1,28 @@
+name: savannah test
+favicon: null
+layout_spectrum: 0.7125741923227906
+typography_spectrum: 0.8859581139404327
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+  brandStrength: 0.9793061942327768
+  lightness: 0.911369718844071
+  saturation: 0.12076169927604496
+  rhythmicContrast: 0.5185039544012398
+purpose: []
