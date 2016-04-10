@@ -1,7 +1,7 @@
 name: savannah test
 favicon: null
-layout_spectrum: 0.7125741923227906
-typography_spectrum: 0.8859581139404327
+layout_spectrum: 0.75986
+typography_spectrum: 0.49542
 cta:
   domain: null
   bucket: null
